@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="4" total="10" passed="6">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="49" started-at="2021-01-27T10:36:38Z" finished-at="2021-01-27T10:36:38Z">
+    <groups>
+      <group name="Regression">
+        <method signature="LoginTests.m2()[pri:0, instance:com.testshastra.unittests.LoginTests@1184ab05]" name="m2" class="com.testshastra.unittests.LoginTests"/>
+        <method signature="LoginTests.m3()[pri:0, instance:com.testshastra.unittests.LoginTests@1184ab05]" name="m3" class="com.testshastra.unittests.LoginTests"/>
+        <method signature="LoginTests.m5()[pri:0, instance:com.testshastra.unittests.LoginTests@1184ab05]" name="m5" class="com.testshastra.unittests.LoginTests"/>
+        <method signature="SignupTests.m2()[pri:0, instance:com.testshastra.unittests.SignupTests@3aefe5e5]" name="m2" class="com.testshastra.unittests.SignupTests"/>
+        <method signature="SignupTests.m3()[pri:0, instance:com.testshastra.unittests.SignupTests@3aefe5e5]" name="m3" class="com.testshastra.unittests.SignupTests"/>
+        <method signature="SignupTests.m5()[pri:0, instance:com.testshastra.unittests.SignupTests@3aefe5e5]" name="m5" class="com.testshastra.unittests.SignupTests"/>
+      </group> <!-- Regression -->
+    </groups>
+    <test name="Test" duration-ms="49" started-at="2021-01-27T10:36:38Z" finished-at="2021-01-27T10:36:38Z">
+      <class name="com.testshastra.unittests.LoginTests">
+        <test-method status="PASS" signature="m2()[pri:0, instance:com.testshastra.unittests.LoginTests@1184ab05]" name="m2" duration-ms="1" started-at="2021-01-27T10:36:38Z" finished-at="2021-01-27T10:36:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- m2 -->
+        <test-method status="PASS" signature="m5()[pri:0, instance:com.testshastra.unittests.LoginTests@1184ab05]" name="m5" duration-ms="9" started-at="2021-01-27T10:36:38Z" finished-at="2021-01-27T10:36:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- m5 -->
+        <test-method status="PASS" signature="m3()[pri:0, instance:com.testshastra.unittests.LoginTests@1184ab05]" name="m3" duration-ms="0" started-at="2021-01-27T10:36:38Z" finished-at="2021-01-27T10:36:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- m3 -->
+      </class> <!-- com.testshastra.unittests.LoginTests -->
+      <class name="com.testshastra.unittests.SignupTests">
+        <test-method status="PASS" signature="m2()[pri:0, instance:com.testshastra.unittests.SignupTests@3aefe5e5]" name="m2" duration-ms="0" started-at="2021-01-27T10:36:38Z" finished-at="2021-01-27T10:36:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- m2 -->
+        <test-method status="PASS" signature="m3()[pri:0, instance:com.testshastra.unittests.SignupTests@3aefe5e5]" name="m3" duration-ms="0" started-at="2021-01-27T10:36:38Z" finished-at="2021-01-27T10:36:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- m3 -->
+        <test-method status="PASS" signature="m5()[pri:0, instance:com.testshastra.unittests.SignupTests@3aefe5e5]" name="m5" duration-ms="0" started-at="2021-01-27T10:36:38Z" finished-at="2021-01-27T10:36:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- m5 -->
+      </class> <!-- com.testshastra.unittests.SignupTests -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
